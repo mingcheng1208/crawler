@@ -15,7 +15,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.by import By
 
-service = Service(executable_path='chromedriver-win64\chromedriver.exe')
+# service = Service(executable_path='chromedriver-win64\chromedriver.exe')
 options = webdriver.ChromeOptions()
 options.add_argument('--ignore-certificate-errors-spki-list')
 options.add_argument('-ignore -ssl-errors')
