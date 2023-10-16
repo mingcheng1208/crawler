@@ -23,7 +23,7 @@ browser = webdriver.Chrome(service=service, options=options)
 
 # 用户名和密码
 username = '34720220156442'
-password = '12080517@Mc'
+password = '1208@Mc'
 changdi_url0 = "https://ids.xmu.edu.cn/authserver/login?type=userNameLogin&service=http%3A%2F%2Fcgyy.xmu.edu.cn%2Fidcallback"
 
 

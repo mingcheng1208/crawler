@@ -66,7 +66,7 @@ def login(user_name, user_pwd):
 if __name__ == '__main__':
     # 用户名和密码
     username = '34720220156442'
-    password = '12080517@Mc'
+    password = '1208@Mc'
     login(username,password)
 
 
